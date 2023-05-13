@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/bvt-static.dir/static-test.cpp.o  -o /home/d/stuff/G-means/G-means/include/pyclustering/ccore/build/bvt-static  /home/d/stuff/G-means/G-means/include/pyclustering/ccore/build/libpyclustering-static.a -lpthread 

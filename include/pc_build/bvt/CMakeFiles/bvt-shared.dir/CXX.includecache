@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/d/stuff/G-means/G-means/include/pyclustering/ccore/bvt/shared-test.cpp
+dlfcn.h
+-
+windows.h
+-
+algorithm
+-
+cstring
+-
+iostream
+-
+string
+-
+unordered_map
+-
+

@@ -1,0 +1,17 @@
+/home/d/stuff/G-means/G-means/include/pc_build/CMakeFiles/rebuild_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/CMakeFiles/edit_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/bvt/CMakeFiles/rebuild_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/bvt/CMakeFiles/edit_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/bvt/CMakeFiles/bvt-shared.dir
+/home/d/stuff/G-means/G-means/include/pc_build/bvt/CMakeFiles/bvt-static.dir
+/home/d/stuff/G-means/G-means/include/pc_build/external/CMakeFiles/rebuild_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/external/CMakeFiles/edit_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/external/CMakeFiles/gtest.dir
+/home/d/stuff/G-means/G-means/include/pc_build/src/CMakeFiles/edit_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/src/CMakeFiles/rebuild_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/src/CMakeFiles/pyclustering.dir
+/home/d/stuff/G-means/G-means/include/pc_build/src/CMakeFiles/pyclustering-shared.dir
+/home/d/stuff/G-means/G-means/include/pc_build/src/CMakeFiles/pyclustering-static.dir
+/home/d/stuff/G-means/G-means/include/pc_build/tst/CMakeFiles/rebuild_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/tst/CMakeFiles/edit_cache.dir
+/home/d/stuff/G-means/G-means/include/pc_build/tst/CMakeFiles/utcore.dir

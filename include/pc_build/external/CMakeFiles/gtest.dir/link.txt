@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/d/stuff/G-means/G-means/include/pyclustering/ccore/build/libgtest.a  CMakeFiles/gtest.dir/src/gtest/gtest-all.cpp.o
+/usr/bin/ranlib /home/d/stuff/G-means/G-means/include/pyclustering/ccore/build/libgtest.a
